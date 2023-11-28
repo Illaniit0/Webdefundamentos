@@ -123,4 +123,9 @@ td{
 th{
     color: white;
 }
+.contenedor-tabla{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 
+}
