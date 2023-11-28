@@ -116,6 +116,11 @@ img{
 .comandos{
     text-size-adjust: 150%;
 }
-table{
+td{
     color: #0f0;
 }
+
+th{
+    color: #white
+}
+
