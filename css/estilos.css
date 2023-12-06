@@ -141,4 +141,7 @@ li{
 }
 ul{
     color: #0f0;
-}     
+}  
+a:hover {
+    color: #0f0;
+}
