@@ -135,6 +135,17 @@ li{
 ul{
     color: #0f0;
 }
-a:hover {
+header {
+    background-color: #0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
     color: #0f0;
+}
+
+header a:hover {
+    border-bottom: 2px solid greenyellow;
 }
