@@ -135,4 +135,10 @@ footer {
             bottom: 0;
             width: 100%;
             margin-left: 20px;
-            }
+}
+li{
+    color:#0f0;
+}
+ul{
+    color: #0f0;
+}     
