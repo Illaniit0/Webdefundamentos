@@ -136,7 +136,7 @@ ul{
     color: #0f0;
 }
 header {
-    background-color: #0f0;
+    background-color: #000;
     padding: 10px;
     text-align: center;
 }
@@ -146,6 +146,3 @@ header a {
     color: #0f0;
 }
 
-header a:hover {
-    border-bottom: 2px solid greenyellow;
-}
